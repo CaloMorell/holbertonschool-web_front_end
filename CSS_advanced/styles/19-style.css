@@ -304,7 +304,7 @@ padding: var(--section-body-padding);
   color: var(--nav-item-link-hover);
 }
 
-.ul row {
+ ul.row {
     margin: 0;
     padding: 0;
     list-style-type: none;
