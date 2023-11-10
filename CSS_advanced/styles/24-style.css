@@ -363,13 +363,13 @@ padding: var(--section-body-padding);
     margin: 0;
 }
 
-.card-category {
+.card-services {
     display: block;
     padding: 2rem;
     background-color: var(--color-light-grey);
 }
 
-.card-category {
+.card-services {
     color: var(--color-white);
     background-color: var(--color-primary);
     text-decoration: none;
