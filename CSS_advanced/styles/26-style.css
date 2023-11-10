@@ -411,7 +411,7 @@ padding: var(--section-body-padding);
     height: 10rem;
 }
 
-.card-testimonial .card-quote  cite {
+.card-quote .card-testimonial   cite {
     display: block;
     padding-top: 1rem;
     color: var(--color-primary);
