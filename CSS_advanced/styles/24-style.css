@@ -360,7 +360,7 @@ padding: var(--section-body-padding);
 }
 
 .card-category .card-title {
-    margin: 0;
+    margin: none;
 }
 
 .card-category {
