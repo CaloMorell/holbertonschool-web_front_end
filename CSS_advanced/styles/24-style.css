@@ -363,13 +363,13 @@ padding: var(--section-body-padding);
     margin: 0;
 }
 
-.card-services {
+.card-services a {
     display: block;
-    padding: 2rem;
+    padding: 2em;
     background-color: var(--color-light-grey);
 }
 
-.card-services {
+.card-services a:hover {
     color: var(--color-white);
     background-color: var(--color-primary);
     text-decoration: none;
