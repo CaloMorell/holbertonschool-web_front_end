@@ -355,6 +355,6 @@ padding: var(--section-body-padding);
     display: block;
 }
 
-.social-link >svg {
+.social-link > svg {
     fill: var(--text-color)
 }
