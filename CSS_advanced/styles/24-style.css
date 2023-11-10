@@ -359,7 +359,7 @@ padding: var(--section-body-padding);
     fill: var(--text-color)
 }
 
-.card-category .card-title {
+.card-category, .card-title {
     margin: none;
 }
 
