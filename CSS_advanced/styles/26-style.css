@@ -405,13 +405,13 @@ padding: var(--section-body-padding);
     text-align: center;
 }
 
-.card-avatar .card-testimonial {
+.card-testimonial .card-avatar  {
     border-radius: 50%;
     width: 10rem;
     height: 10rem;
 }
 
-.card-quote .card-testimonial cite {
+.card-testimonial .card-quote  cite {
     display: block;
     padding-top: 1rem;
     color: var(--color-primary);
